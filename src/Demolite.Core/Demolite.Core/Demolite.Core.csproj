@@ -1,0 +1,24 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net10.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+        <RootNamespace>Demolite.Core</RootNamespace>
+        <PackageId>Demolite.Core</PackageId>
+        <Version>0.1.0</Version>
+        <Title>Demolite.Core</Title>
+        <Authors>Demolite</Authors>
+        <RepositoryUrl>https://github.com/d3molite/DemoliteCore</RepositoryUrl>
+        <PackageTags>result, error, core</PackageTags>
+        <Description>Shared Code for the Demolite packages.</Description>
+        <PackageLicenseExpression>MIT</PackageLicenseExpression>
+        <PackageReadmeFile>README.md</PackageReadmeFile>
+        <GenerateDocumentationFile>true</GenerateDocumentationFile>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <None Include="..\README.md" Pack="true" PackagePath="\"/>
+    </ItemGroup>
+
+</Project>
