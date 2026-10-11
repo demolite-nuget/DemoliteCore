@@ -6,7 +6,7 @@
         <Nullable>enable</Nullable>
         <RootNamespace>Demolite.Core</RootNamespace>
         <PackageId>Demolite.Core</PackageId>
-        <Version>0.1.0</Version>
+        <Version>0.2.0</Version>
         <Title>Demolite.Core</Title>
         <Authors>Demolite</Authors>
         <RepositoryUrl>https://github.com/d3molite/DemoliteCore</RepositoryUrl>
